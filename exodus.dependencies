@@ -1,0 +1,11 @@
+[
+  {
+    "repository":  "device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common"
+  },
+  {
+    "repository":  "vendor_motorola_osprey",
+    "target_path": "vendor/motorola/osprey"
+  }
+]
+
